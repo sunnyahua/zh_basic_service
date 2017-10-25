@@ -1,7 +1,7 @@
 {
-    "name": "zh/zhbasicservice",
+    "name": "sunnyahua/zh_basic_service",
     "type": "typo3-cms-extension",
-    "description": "Baisc Service",
+    "description": "TYPO3 Baisc Service",
     "version": "1.0.0",
     "homepage": "",
     "license": "",
