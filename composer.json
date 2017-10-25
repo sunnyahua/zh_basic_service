@@ -1,0 +1,19 @@
+{
+    "name": "zh/zhbasicservice",
+    "type": "typo3-cms-extension",
+    "description": "Baisc Service",
+    "version": "1.0.0",
+    "homepage": "",
+    "license": "",
+    "require": {
+        "typo3/cms-core": ">=7.6.0,<8.9.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZH\\ZhBasicService\\": "Classes"
+        }
+    },
+    "replace": {
+        "zh_basic_service": "*"
+    }
+}
